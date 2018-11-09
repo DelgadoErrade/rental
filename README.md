@@ -1,7 +1,7 @@
 # super-rentals
 
 This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+Este es un ejercicio para aprender a utilizar ember.  Corresponde al ejercicio del tutorial de ember de su página oficial.
 
 ## Prerequisites
 
